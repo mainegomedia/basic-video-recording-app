@@ -1,7 +1,8 @@
 {
   "expo": {
+    "owner": "mainegomedia",
     "name": "Video",
-    "slug": "Video",
+    "slug": "video-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
